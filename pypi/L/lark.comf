@@ -1,8 +1,7 @@
 format v0.1
 metadata
 {
-    "lark"
-    kind "pypi"
+    "pypi/lark"
     dist
     {
         version v0.11.3
