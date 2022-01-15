@@ -1,0 +1,12 @@
+format v0.1
+metadata
+{
+    "lark"
+    kind "pypi"
+    dist
+    {
+        version v0.11.3
+        url "https://files.pythonhosted.org/packages/e6/10/0359cf35c64004933c74cbf87e15dd5da311ff087580b15c41e0b254d2d3/lark-0.11.3.tar.gz"
+        dep { "python" kind "lang" version >=v3.8 && < 3.11 }
+    }
+}
