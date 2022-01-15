@@ -13,7 +13,7 @@ metadata
 
     dist
     {
-        v10000
+        v10000.0
         url "https://github.com/thautwarm/fable-pykg"
         dep { "lang/julia" >= v1.7 && < v2.0 }
     }
