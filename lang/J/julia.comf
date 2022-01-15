@@ -1,0 +1,13 @@
+format v0.1
+metadata
+{
+    "lang/julia"
+    dist v1.0
+    dist v1.1
+    dist v1.2
+    dist v1.3
+    dist v1.4
+    dist v1.5
+    dist v1.6
+    dist v1.7
+}

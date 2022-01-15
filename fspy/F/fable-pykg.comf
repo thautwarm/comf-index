@@ -10,4 +10,11 @@ metadata
         dep { "lang/python" >= v3.8 && < v3.11 }
         dep { "pypi/lark" ~v0.11.3 }
     }
+
+    dist
+    {
+        v10000
+        url "https://github.com/thautwarm/fable-pykg"
+        dep { "lang/julia" >= v1.7 && < v2.0 }
+    }
 }
