@@ -1,0 +1,8 @@
+format v0.1
+metadata
+{
+    "lang/net"
+    dist v5.0
+    dist v6.0.0
+    dist v6.0.1
+}

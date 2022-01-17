@@ -2,7 +2,9 @@ format v0.1
 metadata
 {
     "lang/python"
-    dist v4.2
     dist v3.6
-    dist v3.8.8
+    dist v3.7
+    dist v3.8
+    dist v3.9
+    dist v3.10
 }
