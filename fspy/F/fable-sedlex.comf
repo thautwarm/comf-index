@@ -6,9 +6,9 @@ metadata
     dist
     {
         v0.1
-        url { "https://github.com/thautwarm/fable-sedlex" git-branch "master" }
+        url { "https://github.com/thautwarm/fable.sedlex" git-branch "master" }
         dep { "lang/python" >= v3.8 && < v3.11 }
-        dep { "lang/net" >=v0.5 && < v0.7 }
+        dep { "lang/net" >=v5.0 && < v7.0 }
         dep { "pypi/lark" ~v0.11.3 }
     }
 }
